@@ -41,7 +41,7 @@ const Footer = () => {
             </div>
             <hr className='w-11/12 mx-auto my-4' />
             <div className='flex justify-between w-11/12 mx-auto my-2'>
-                <p>© All Right Reserved. ILius MaHfuZ</p>
+                <p>© All Right Reserved. ILius MaHfuZ@2023</p>
                 <p>DreemJob LLC</p>
             </div>
         </div>
