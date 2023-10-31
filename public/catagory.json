@@ -1,0 +1,22 @@
+[
+    {
+        "image": "/icons/icon1.png",
+        "title": "Acount & Finance",
+        "job_amount": 1200
+    },
+    {
+        "image": "/icons/icon2.png",
+        "title": "Creative Design",
+        "job_amount": 218
+    },
+    {
+        "image": "/icons/icon4.png",
+        "title": "Merkating & Sales",
+        "job_amount": 435
+    },
+    {
+        "image": "/icons/icon3.png",
+        "title": "Engineering Job",
+        "job_amount": 180
+    }
+]

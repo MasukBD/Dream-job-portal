@@ -1,0 +1,8 @@
+.foot-er a {
+    margin-bottom: 5px;
+}
+
+.foot-er a:hover {
+    color: rgb(255, 144, 163);
+    font-weight: 700;
+}

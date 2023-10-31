@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "/images/logo-1.webp",
+        "companayName": "Amazon Tech",
+        "jobTitle": "Frontend Developer",
+        "remoteOrOnsite": "Remote",
+        "location": "Any",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "jobDescription": "We are seeking a skilled Frontend Developer to join our team...",
+        "jobResponsibility": "Responsibilities:\n- Develop and implement user-facing features...\n- Collaborate with design and backend teams...",
+        "educationalRequirement": "Bachelor's degree in Computer Science or related field",
+        "experience": "3+ years of experience in frontend development",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "companyLogo": "/images/logo-2.webp",
+        "companayName": "Apple Inc",
+        "jobTitle": "Data Scientist",
+        "remoteOrOnsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$100,000 - $120,000",
+        "jobDescription": "We are looking for an experienced Data Scientist to join our team...",
+        "jobResponsibility": "Responsibilities:\n- Analyze complex data sets...\n- Develop predictive models and machine learning algorithms...",
+        "educationalRequirement": "Master's or Ph.D. in Data Science, Statistics, or related field",
+        "experience": "5+ years of experience in data analysis and machine learning",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "companyLogo": "/images/logo-3.webp",
+        "companayName": "Macdonalds",
+        "jobTitle": "Marketing Manager",
+        "remoteOrOnsite": "Onsite",
+        "location": "London, UK",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "£40,000 - £60,000",
+        "jobDescription": "We are seeking a talented Marketing Manager to lead our marketing initiatives...",
+        "jobResponsibility": "Responsibilities:\n- Develop and implement marketing strategies...\n- Conduct market research and competitor analysis...",
+        "educationalRequirement": "Bachelor's degree in Marketing, Business Administration, or related field",
+        "experience": "4+ years of experience in marketing management",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "companyLogo": "/images/logo-4.webp",
+        "companayName": "Microsoft LLC",
+        "jobTitle": "UX/UI Designer",
+        "remoteOrOnsite": "Remote",
+        "location": "Any",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$70,000 - $90,000",
+        "jobDescription": "We are looking for a creative UX/UI Designer to join our design team...",
+        "jobResponsibility": "Responsibilities:\n- Create wireframes, prototypes, and visual designs...\n- Collaborate with cross-functional teams...",
+        "educationalRequirement": "Bachelor's degree in Design, HCI, or related field",
+        "experience": "2+ years of experience in UX/UI design",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "companyLogo": "/images/logo-5.webp",
+        "companayName": "Samsung BD",
+        "jobTitle": "Accountant",
+        "remoteOrOnsite": "Onsite",
+        "location": "New York, NY",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$50,000 - $60,000",
+        "jobDescription": "We are seeking a detail-oriented Accountant to join our finance team...",
+        "jobResponsibility": "Responsibilities:\n- Manage financial transactions and records...\n- Prepare and analyze financial statements...",
+        "educationalRequirement": "Bachelor's degree in Accounting or Finance",
+        "experience": "1-2 years of experience in accounting",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "companyLogo": "/images/logo-6.webp",
+        "companayName": "HP International",
+        "jobTitle": "Sales Representative",
+        "remoteOrOnsite": "Remote",
+        "location": "Any",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "Commission-based with competitive earnings",
+        "jobDescription": "We are looking for a motivated Sales Representative to join our sales team...",
+        "jobResponsibility": "Responsibilities:\n- Generate leads and prospect new clients...\n- Present and sell company products or services...",
+        "educationalRequirement": "High school diploma or equivalent",
+        "experience": "2+ years of experience in sales",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "companyLogo": "/images/logo-7.webp",
+        "companayName": "Walmart",
+        "jobTitle": "HR Manager",
+        "remoteOrOnsite": "Onsite",
+        "location": "Chicago, IL",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$70,000 - $90,000",
+        "jobDescription": "We are seeking an experienced HR Manager to oversee our human resources department...",
+        "jobResponsibility": "Responsibilities:\n- Develop and implement HR policies and procedures...\n- Manage employee relations and performance...",
+        "educationalRequirement": "Bachelor's degree in Human Resources, Business Administration, or related field",
+        "experience": "4+ years of experience in HR management",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "companyLogo": "/images/logo-8.webp",
+        "companayName": "IBM Company",
+        "jobTitle": "Content Writer",
+        "remoteOrOnsite": "Remote",
+        "location": "Any",
+        "fullTimeOrPartTime": "Part-time",
+        "salary": "$25 - $30 per hour",
+        "jobDescription": "We are looking for a skilled Content Writer to create engaging and informative content...",
+        "jobResponsibility": "Responsibilities:\n- Write and edit blog posts, articles, and website content...\n- Conduct thorough research on various topics...",
+        "educationalRequirement": "Bachelor's degree in English, Journalism, or related field",
+        "experience": "2+ years of experience in content writing",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "companyLogo": "/images/logo-9.webp",
+        "companayName": "Hyundai TM",
+        "jobTitle": "Graphic Designer",
+        "remoteOrOnsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$50,000 - $70,000",
+        "jobDescription": "We are seeking a creative Graphic Designer to join our design team...",
+        "jobResponsibility": "Responsibilities:\n- Design and create visual materials for print and digital platforms...\n- Collaborate with marketing and design teams...",
+        "educationalRequirement": "Bachelor's degree in Graphic Design or related field",
+        "experience": "3+ years of experience in graphic design",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "companyLogo": "/images/logo-10.webp",
+        "companayName": "Google LLC",
+        "jobTitle": "Customer Support Representative",
+        "remoteOrOnsite": "Remote",
+        "location": "Any",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "$35,000 - $40,000",
+        "jobDescription": "We are looking for a friendly and empathetic Customer Support Representative to assist our customers...",
+        "jobResponsibility": "Responsibilities:\n- Respond to customer inquiries and provide support...\n- Maintain customer databases and update records...",
+        "educationalRequirement": "High school diploma or equivalent",
+        "experience": "1-2 years of experience in customer support or related field",
+        "contactInformation": {
+            "phoneNumber": "+1 123-456-7890",
+            "email": "example@example.com",
+            "address": {
+                "city": "New York",
+                "country": "United States"
+            }
+        }
+    }
+]
